@@ -1,0 +1,15 @@
+{
+    "category" : ["....."],
+    "cost" : ...,
+    "property" : {
+        "name_1" : "",
+        "name_2" : "",
+        ...
+    },
+    "description" : ""
+}
+
+Mục tiêu chương trình là viết được hàm sinh ra được dữ liệu theo cấu trúc được định nghĩa ở trên
+Và lưu vào file với tên product.json
+
+Ngôn ngữ lập trình (Python/JS/ --> thư viện hỗ trợ sinh dữ liệu giả)
