@@ -1,6 +1,6 @@
 import json
 
-product_infors = ["products/product.json", "products/product-sachvavanphongpham.json"]
+product_infors = ["data/raw/products/product.json", "data/raw/products/product-sachvavanphongpham.json"]
 from config.build_storage import describe_product, get_nodes_2, build_storage
 
 def describe_book(book):

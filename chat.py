@@ -9,11 +9,12 @@ my_desired_response = PromptTemplate("""\
     Trả lời: 
 """)
 
-index = get_storage("./pure_db")
+index = get_storage("./data/normal_store_index")
 chat_engine = index.as_chat_engine(chat_prompt=my_desired_response)
 
 
-while True:
-    query = input("Bạn muốn hỏi gì?")
-    response = chat_engine.chat(query)
-    print(f"Phản hồi: {response.response}")
+if __name__ == "__main__":
+    while True:
+        query = input("Bạn muốn hỏi gì?")
+        response = chat_engine.chat(query)
+        print(f"Phản hồi: {response.response}")

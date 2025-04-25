@@ -14,7 +14,7 @@ from llama_index.core import Settings
 #     "n_threads" : 4
 # })
 # llm = GenerativeModel()
-llm = Gemini(api_key="")
+llm = Gemini(api_key="AIzaSyCz6czNi0dLD-DgOoMMSVtueYr745kS0ZM")
 
 embed_model = HuggingFaceEmbedding(model_name=EMBED_MODEL_NAME)
 
