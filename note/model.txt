@@ -1,0 +1,2 @@
+ggml-vistral-7B-chat-q4_1.gguf
+https://huggingface.co/uonlp/Vistral-7B-Chat-gguf
