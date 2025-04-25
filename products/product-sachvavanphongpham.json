@@ -1,0 +1,204 @@
+{
+    "products" : [
+        {
+            "category": ["Sách và văn phòng phẩm"],
+            "cost": 100000,
+            "property": {
+                "name": "Giá đỡ máy tính xách tay gập gọn, nâng nhiệt dưới 13,3 inch và 1,2kg",
+                "type": "văn phòng phẩm",
+                "rating": "4.8"
+            },
+            "description": "Giá đỡ máy tính xách tay đa năng, gập gọn, dùng cho laptop và tablet dưới 13,3 inch."
+        },
+        {
+            "category": ["Sách và văn phòng phẩm"],
+            "cost": 100000,
+            "property": {
+                "name": "Lịch 2025 Đơn Giản Màu Trơn Mini Máy Tính Để Bàn Lịch Đơn Giản Kép Hàng Ngày Lập Lịch Bảng Lập Kế Hoạch Hàng Năm",
+                "type": "lịch",
+                "rating": "4.8"
+            },
+            "description": "Lịch 2025 Đơn Giản Màu Trơn Mini Máy Tính Để Bàn Lịch Đơn Giản Kép Hàng Ngày Lập Lịch Bảng Lập Kế Hoạch Hàng Năm"
+        },
+        {
+            "category": ["Sách và văn phòng phẩm"],
+            "cost": 100000,
+            "property": {
+                "name": "Led USB Hoàng Hôn Đèn Máy Chiếu Trang Trí Nhà Đèn Ngủ Di Động Tâm Trạng Ánh Sáng Neon VN",
+                "type": "đèn",
+                "rating": "4.8"
+            },
+            "description": "Led USB Hoàng Hôn Đèn Máy Chiếu Trang Trí Nhà Đèn Ngủ Di Động Tâm Trạng Ánh Sáng Neon VN"
+        },
+        {
+            "category": ["Sách và văn phòng phẩm"],
+            "cost": 100000,
+            "property": {
+                "name": "Bút lông 6/12 màu dạng bấm Retractable Fiber Pens Kawaii Thiên Long Colokit - 0.6mm",
+                "type": "bút lông",
+                "rating": "4.8"
+            },
+            "description": "Bút lông 6/12 màu dạng bấm Retractable Fiber Pens Kawaii Thiên Long Colokit - 0.6mm"
+        },
+        {
+            "category": ["Sách và văn phòng phẩm"],
+            "cost": 69000,
+            "property": {
+                "name": "BÍ QUYẾT KIỂM SOÁT CƠN GIẬN",
+                "type": "sách",
+                "rating": "4.8"
+            },
+            "description": "BÍ QUYẾT KIỂM SOÁT CƠN GIẬN"
+        },
+        {
+            "category": ["Sách và văn phòng phẩm"],
+            "cost": 79000,
+            "property": {
+                "name": "Sự Trung Thực Của Xác Chết - Ghi Chép Của Một Nhà Pháp Y",
+                "type": "sách",
+                "rating": "4.8"
+            },
+            "description": "Sự Trung Thực Của Xác Chết - Ghi Chép Của Một Nhà Pháp Y"
+        },
+        {
+            "category": ["Sách và văn phòng phẩm"],
+            "cost": 98000,
+            "property": {
+                "name": "Combo 2Q Giáo Dục Con Trẻ: Tuổi Dậy Thì Nói Gì Với Con? + Giáo Dục Giới Tính Theo Cách Người Nhật (Tặng Kèm Bookmark)",
+                "type": "sách",
+                "rating": "4.8"
+            },
+            "description": "Combo 2Q Giáo Dục Con Trẻ: Tuổi Dậy Thì Nói Gì Với Con? + Giáo Dục Giới Tính Theo Cách Người Nhật (Tặng Kèm Bookmark)"
+        },
+        {
+            "category": ["Sách và văn phòng phẩm"],
+            "cost": 100000,
+            "property": {
+                "name": "Được Học",
+                "type": "sách",
+                "rating": "4.8"
+            },
+            "description": "Được Học"
+        },
+        {
+            "category": ["Sách và văn phòng phẩm"],
+            "cost": 171000,
+            "property": {
+                "name": "Tư Duy Nhanh Và Chậm",
+                "type": "sách",
+                "rating": "4.8"
+            },
+            "description": "Tư Duy Nhanh Và Chậm"
+        },
+        {
+            "category": ["Sách và văn phòng phẩm"],
+            "cost": 124000,
+            "property": {
+                "name": "MBA bằng hình (Trọn gói hai năm kiến thức quản trị kinh doanh qua trực quan sinh động)",
+                "type": "sách",
+                "rating": "4.8"
+            },
+            "description": "MBA bằng hình (Trọn gói hai năm kiến thức quản trị kinh doanh qua trực quan sinh động)"
+        },
+        {
+            "category": ["Sách và văn phòng phẩm"],
+            "cost": 10000,
+            "property": {
+                "name": "Set 2 Thẻ Đánh Dấu Trang Sách Hình Phong Cảnh Sáng Tạo",
+                "type": "văn phòng phẩm",
+                "rating": "4.8"
+            },
+            "description": "Set 2 Thẻ Đánh Dấu Trang Sách Hình Phong Cảnh Sáng Tạo"
+        },
+        {
+            "category": ["Sách và văn phòng phẩm"],
+            "cost": 10000,
+            "property": {
+                "name": "Set 50 tờ giấy ghi nhớ note hình vuông màu phong cách thanh lịch văn phòng học tập",
+                "type": "văn phòng phẩm",
+                "rating": "4.8"
+            },
+            "description": "Set 50 tờ giấy ghi nhớ note hình vuông màu phong cách thanh lịch văn phòng học tập"
+        },
+        {
+            "category": ["Sách và văn phòng phẩm"],
+            "cost": 10000,
+            "property": {
+                "name": "Bút gel HH-207 0.38mm",
+                "type": "bút",
+                "rating": "4.8"
+            },
+            "description": "Bút gel HH-207 0.38mm"
+        },
+        {
+            "category": ["Sách và văn phòng phẩm"],
+            "cost": 100000,
+            "property": {
+                "name": "Sách Muôn Kiếp Nhân Sinh",
+                "type": "sách",
+                "rating": "4.8"
+            },
+            "description": "Sách Muôn Kiếp Nhân Sinh"
+        },
+        {
+            "category": ["Sách và văn phòng phẩm"],
+            "cost": 100000,
+            "property": {
+                "name": "THƯ VIỆN NỬA ĐÊM",
+                "type": "sách",
+                "rating": "4.8"
+            },
+            "description": "THƯ VIỆN NỬA ĐÊM"
+        },
+        {
+            "category": ["Sách và văn phòng phẩm"],
+            "cost": 168000,
+            "property": {
+                "name": "Giải mã Hoóc-môn Dopamine",
+                "type": "sách",
+                "rating": "4.8"
+            },
+            "description": "Giải mã Hoóc-môn Dopamine"
+        },
+        {
+            "category": ["Sách và văn phòng phẩm"],
+            "cost": 120000,
+            "property": {
+                "name": "Dẫn Dắt Một Bầy Sói Hay Chăn Một Đàn Cừu",
+                "type": "sách",
+                "rating": "4.8"
+            },
+            "description": "Dẫn Dắt Một Bầy Sói Hay Chăn Một Đàn Cừu"
+        },
+        {
+            "category": ["Sách và văn phòng phẩm"],
+            "cost": 244000,
+            "property": {
+                "name": "Storytelling With You – Kể Chuyện Từ Chính Bạn",
+                "type": "sách",
+                "rating": "4.8"
+            },
+            "description": "Storytelling With You – Kể Chuyện Từ Chính Bạn"
+        },
+        {
+            "category": ["Sách và văn phòng phẩm"],
+            "cost": 247000,
+            "property": {
+                "name": "Storytelling With Data: Let’S Practice! - Thực Hành Kể Chuyện Thông Qua Dữ Liệu!",
+                "type": "sách",
+                "rating": "4.8"
+            },
+            "description": "Storytelling With Data: Let’S Practice! - Thực Hành Kể Chuyện Thông Qua Dữ Liệu!"
+        },
+        {
+            "category": ["Sách và văn phòng phẩm"],
+            "cost": 168000,
+            "property": {
+                "name": "Storytelling With Data - Kể Chuyện Thông Qua Dữ Liệu (Cuốn Cẩm Nang Hướng Dẫn Trực Quan Hóa Dữ Liệu)",
+                "type": "sách",
+                "rating": "4.8"
+            },
+            "description": "Storytelling With Data - Kể Chuyện Thông Qua Dữ Liệu (Cuốn Cẩm Nang Hướng Dẫn Trực Quan Hóa Dữ Liệu)"
+        }
+    ]
+}

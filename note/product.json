@@ -1,0 +1,44 @@
+{
+    "data" : [
+        {
+            "category" : "Balo - Túi sách",
+            "cost" : 100,
+            "property" : {
+                "color" : "màu đỏ",
+                "size" : "10cm",
+                "..." : ""
+            },
+            "description" : "Đây là loại balo ...."
+        },
+        {
+            "category" : "Balo - Túi sách",
+            "cost" : 100,
+            "property" : {
+                "color" : "màu đỏ",
+                "size" : "10cm",
+                "..." : ""
+            },
+            "description" : "Đây là loại balo ...."
+        },
+        {
+            "category" : "Balo - Túi sách",
+            "cost" : 100,
+            "property" : {
+                "color" : "màu đỏ",
+                "size" : "10cm",
+                "..." : ""
+            },
+            "description" : "Đây là loại balo ...."
+        },
+        {
+            "category" : "Balo - Túi sách",
+            "cost" : 100,
+            "property" : {
+                "color" : "màu đỏ",
+                "size" : "10cm",
+                "..." : ""
+            },
+            "description" : "Đây là loại balo ...."
+        }
+    ]
+}

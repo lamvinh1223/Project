@@ -1,0 +1,244 @@
+{
+    "products" : [
+        {
+            "category": ["Thời trang"],
+            "cost": 100000,
+            "property": {
+                "name": "Đầm Đen Cổ Yếm Phối Tùng Voan Bèo Laser Kèm Quần Short",
+                "type": "set",
+                "gender": "nữ",
+                "color": "Đen",
+                "rating": "4.8"
+            },
+            "description": "Đầm Đen Cổ Yếm Phối Tùng Voan Bèo Laser Kèm Quần Short"
+        },
+        {
+            "category": ["Thời trang"],
+            "cost": 100000,
+            "property": {
+                "name": "Đầm Ren Trắng Đính Nơ",
+                "type": "set",
+                "gender": "nữ",
+                "color": "Trắng",
+                "rating": "4.8"
+            },
+            "description": "Đầm Ren Trắng Đính Nơ"
+        },
+        {
+            "category": ["Thời trang"],
+            "cost": 100000,
+            "property": {
+                "name": "Áo Voan Hồng Loang Nhún Bí Kèm Nơ",
+                "type": "set",
+                "gender": "nữ",
+                "color": "hồng",
+                "rating": "4.8"
+            },
+            "description": "Áo Voan Hồng Loang Nhún Bí Kèm Nơ"
+        },
+        {
+            "category": ["Thời trang"],
+            "cost": 100000,
+            "property": {
+                "name": "Dép cá hề dễ thương AYUER.",
+                "type": "dép",
+                "gender": "nữ",
+                "color": "xanh lam",
+                "rating": "4.8"
+            },
+            "description": "Dép xỏ ngón trong nhà đế dày chống trượt"
+        },
+        {
+            "category": ["Thời trang"],
+            "cost": 100000,
+            "property": {
+                "name": "Đầm Yếm Bèo Voan Kem",
+                "type": "đầm",
+                "gender": "nữ",
+                "color": "kem",
+                "rating": "4.8"
+            },
+            "description": "Đầm Yếm Bèo Voan Kem"
+        },
+        {
+            "category": ["Thời trang"],
+            "cost": 100000,
+            "property": {
+                "name": "Đầm Voan Cổ Đổ Lót Lụa Màu Xám",
+                "type": "đầm",
+                "gender": "nữ",
+                "color": "xám",
+                "rating": "4.8"
+            },
+            "description": "Đầm Voan Cổ Đổ Lót Lụa Màu Xám"
+        },
+        {
+            "category": ["Thời trang"],
+            "cost": 100000,
+            "property": {
+                "name": "Chân Váy Voan Kem Rã 3 Tầng",
+                "type": "set",
+                "gender": "nữ",
+                "color": "kem",
+                "rating": "4.8"
+            },
+            "description": "Chân Váy Voan Kem Rã 3 Tầng"
+        },
+        {
+            "category": ["Thời trang"],
+            "cost": 100000,
+            "property": {
+                "name": "Áo Voan Nâu Cổ Yếm",
+                "type": "áo",
+                "gender": "nữ",
+                "color": "nâu",
+                "rating": "4.8"
+            },
+            "description": "Áo Voan Nâu Cổ Yếm"
+        },
+        {
+            "category": ["Thời trang"],
+            "cost": 100000,
+            "property": {
+                "name": "Áo Dây Trắng Croptop Đính Hoa",
+                "type": "set",
+                "gender": "nữ",
+                "color": "trắng",
+                "rating": "4.8"
+            },
+            "description": "Áo Dây Trắng Croptop Đính Hoa"
+        },
+        {
+            "category": ["Thời trang"],
+            "cost": 100000,
+            "property": {
+                "name": "Đầm Lụa Kem Đính Hoa",
+                "type": "đầm",
+                "gender": "nữ",
+                "color": "kem",
+                "rating": "4.8"
+            },
+            "description": "Đầm Lụa Kem Đính Hoa"
+        },
+        {
+            "category": ["Thời trang"],
+            "cost": 100000,
+            "property": {
+                "name": "ĐẦM CUP NGỰC ĐÍNH NƠ",
+                "type": "đầm",
+                "gender": "nữ",
+                "color": "đen",
+                "rating": "4.8"
+            },
+            "description": "ĐẦM CUP NGỰC ĐÍNH NƠ"
+        },
+        {
+            "category": ["Thời trang"],
+            "cost": 100000,
+            "property": {
+                "name": "Giày NB 530V2 Retro Khaki",
+                "type": "giày",
+                "gender": "nam/nữ",
+                "color": "trắng",
+                "rating": "4.8"
+            },
+            "description": "Full Size Nam Nữ"
+        },
+        {
+            "category": ["Thời trang"],
+            "cost": 1300000,
+            "property": {
+                "name": "Giày Adidas Samba Classic White Phối Đồ Nam Nữ",
+                "type": "giày",
+                "gender": "nam/nữ",
+                "color": "trắng",
+                "rating": "4.8"
+            },
+            "description": "FULL SIZE FULL BOX"
+        },
+        {
+            "category": ["Thời trang"],
+            "cost": 100000,
+            "property": {
+                "name": "Quần Tây Nam Thời Trang Biluxury",
+                "type": "quần",
+                "gender": "nam",
+                "color": "đen",
+                "rating": "4.8"
+            },
+            "description": "Chất Vải Mềm Mịn Mỏng Nhẹ Phom Dáng Trẻ Trung Năng Động"
+        },
+        {
+            "category": ["Thời trang"],
+            "cost": 100000,
+            "property": {
+                "name": "Áo sơ mi nam nữ tay ngắn chất kaki cao cấp",
+                "type": "áo",
+                "gender": "nam/nữ",
+                "color": "đen",
+                "rating": "4.8"
+            },
+            "description": "kiểu dáng form rộng, unisex, dễ phối đồ mặc cực đẹp"
+        },
+        {
+            "category": ["Thời trang"],
+            "cost": 100000,
+            "property": {
+                "name": "Đầm dây đeo nghệ thuật cao cấp phong cách mới mùa hè",
+                "type": "đầm",
+                "gender": "nữ",
+                "color": "nhiều màu",
+                "rating": "4.8"
+            },
+            "description": "dành cho nữ Áo sơ mi dài tay cổ điển Bộ đồ hai mảnh"
+        },
+        {
+            "category": ["Thời trang"],
+            "cost": 100000,
+            "property": {
+                "name": "Áo len cardigan dài tay voan mùa hè",
+                "type": "áo",
+                "gender": "nữ",
+                "color": "hồng",
+                "rating": "4.8"
+            },
+            "description": "Áo len cardigan dài tay voan mùa hè"
+        },
+        {
+            "category": ["Thời trang"],
+            "cost": 100000,
+            "property": {
+                "name": "Bộ đồ ngủ in hình tay ngắn shin Boy Pencil Phong cách Nhật Bản Quần áo nữ mùa hè phong cách Hàn Quốc",
+                "type": "set",
+                "gender": "nữ",
+                "color": "nhiều màu",
+                "rating": "4.8"
+            },
+            "description": "Bộ đồ ngủ in hình tay ngắn shin Boy Pencil Phong cách Nhật Bản Quần áo nữ mùa hè phong cách Hàn Quốc"
+        },
+        {
+            "category": ["Thời trang"],
+            "cost": 100000,
+            "property": {
+                "name": "Bộ đồ ngủ một mảnh Cá Hề Dễ Thương",
+                "type": "set",
+                "gender": "nữ",
+                "color": "xanh",
+                "rating": "4.8"
+            },
+            "description": "Bộ đồ ngủ một mảnh Cá Hề Dễ Thương Bộ đồ ngủ cô gái hài hước Bộ đồ ngủ cô gái ngọt ngào Bộ đồ mặc nhà"
+        },
+        {
+            "category": ["Thời trang"],
+            "cost": 100000,
+            "property": {
+                "name": "Đồ ngủ vịt hài hước",
+                "type": "set",
+                "gender": "nữ",
+                "color": "trắng",
+                "rating": "4.8"
+            },
+            "description": "Đồ ngủ vịt hài hước Nhung gòn ấm áp Quà sinh nhật hài hước"
+        }
+    ]
+}
