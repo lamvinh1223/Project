@@ -52,6 +52,11 @@ default_ingestion_pipeline = IngestionPipeline(name="Phương pháp 1",
         question_answered_extractor
     ])
 
+simple_pipeline = IngestionPipeline(name = "Phương pháp 2", 
+                                    transformations=[
+                                        semantic_splitter
+                                    ])
+
 # summary_extractor_ingestion_pipeline = IngestionPipeline(name="Phương pháp 2", 
 #     transformations=[
 #         semantic_splitter,
